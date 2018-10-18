@@ -1,2 +1,2 @@
 RegExp
-MAC Address [A-H|0-9][A-H|0-9]:[A-H|0-9][A-H|0-9]:[A-H|0-9][A-H|0-9]:[A-H|0-9][A-H|0-9]:[A-H|0-9][A-H|0-9]:[A-H|0-9][A-H|0-9]
+MAC Address [A-H0-9:]{17}
