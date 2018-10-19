@@ -1,2 +1,2 @@
 RegExp
-MAC Address [A-H0-9:]{17}
+MAC Address ([A-H0-9]{2}:){5}[A-H0-9]{2}
